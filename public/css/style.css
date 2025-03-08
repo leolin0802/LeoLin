@@ -1,0 +1,65 @@
+/* Main styles for the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    color: #4a90e2;
+    font-size: 3em;
+    margin-top: 40px;
+  }
+  
+  /* Cover image */
+  .cover-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+  }
+  
+  /* Blog post container */
+  .post-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title styles */
+  h2 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraph styles */
+  p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  /* Section heading styles */
+  section h3 {
+    color: #4a90e2;
+    font-size: 1.8em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Highlight the 'Today' statement */
+  .today-statement {
+    font-weight: bold;
+    color: #333;
+    font-size: 1.3em;
+  }
+  
