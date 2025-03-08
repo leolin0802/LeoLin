@@ -1,7 +1,7 @@
 +++
 date = '2025-03-08T16:21:23-05:00'
 draft = false
-title = 'Project1'
+title = 'Project 1'
 author = 'Leo Lin'
 tag = ["Google", "Google review", "Project"]
 +++
